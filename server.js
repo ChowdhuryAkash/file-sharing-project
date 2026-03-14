@@ -628,7 +628,7 @@ app.get("/", (req, res) => {
   <div class="container">
     <div class="personal-section">
       <h3>Akash Chowdhury</h3>
-      <p class="quote">"Don't worry, I'm here to help you...! If my little effor make you smile, that'st my big pleasure😊"</p>
+      <p class="quote">"Don't worry, I'm here to help you...! If my little effort make you smile, that's my big pleasure😊"</p>
       <a href="https://www.linkedin.com/in/akash-chowdhury-2b2330249/" class="linkedin-btn" target="_blank">
         <i class="fab fa-linkedin"></i> Let's Connect
       </a>
